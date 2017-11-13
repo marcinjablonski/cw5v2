@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1510575099 source:d:\marcinnn\cw5\cw5v2\marcin\main.cpp
+	<iostream>
+	"AnalizatorSygnalu.h"
+	"Sygnal.h"
+	"Probka.h"
+	"SygnalLoader.h"
+	"SygnalSinusoidalny.h"
+	"SygnalProbkowany.h"
+
+1510572841 d:\marcinnn\cw5\cw5v2\marcin\analizatorsygnalu.h
+	"SygnalProbkowany.h"
+
+1510575095 d:\marcinnn\cw5\cw5v2\marcin\sygnalprobkowany.h
+	"Sygnal.h"
+	<iostream>
+	<vector>
+
+1510573226 d:\marcinnn\cw5\cw5v2\marcin\sygnal.h
+	"Probka.h"
+	<iostream>
+
+1509895262 d:\marcinnn\cw5\cw5v2\marcin\probka.h
+
+1510574136 d:\marcinnn\cw5\cw5v2\marcin\sygnalloader.h
+	<string>
+	<fstream>
+	"SygnalProbkowany.h"
+
+1510575364 d:\marcinnn\cw5\cw5v2\marcin\sygnalsinusoidalny.h
+	<iostream>
+	"Sygnal.h"
+	<math.h>
+
